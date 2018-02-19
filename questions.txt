@@ -1,0 +1,17 @@
+What is an object?
+object is something that has data inside 
+
+
+How do you access a property of an object?
+ellipse(200,200,nums[2],nums[2]);
+
+What is the index of the first item in an array?
+Zero
+
+
+What syntax can you use to get the third item in an array?
+Arrayname
+
+How do you use a variable nad a loop to get every item in an array?
+By using a forloop 
+
